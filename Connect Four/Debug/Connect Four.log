@@ -1,0 +1,4 @@
+﻿  Connect Four.cpp
+C:\Users\Abdullah Alaa\source\repos\Connect Four\Connect Four\Connect Four.cpp(254,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Connect Four\Connect Four\Connect Four.cpp(254,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Connect Four.vcxproj -> C:\Users\Abdullah Alaa\source\repos\Connect Four\Debug\Connect Four.exe
